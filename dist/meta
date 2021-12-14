@@ -1,0 +1,1 @@
+{"title":"systemjs-root-page","assets":{"@example":"/test/example.js"},"external":{"@other":"/test/microAssets.json"}}
